@@ -11,13 +11,6 @@ npm.cmd run build   # production build → dist/
 npm.cmd run preview # serve the production build
 ```
 
-## Demo accounts
-
-| Role | Email | Password |
-|---|---|---|
-| **Owner** (full company access) | `owner@crm.com` | `Owner123!` |
-| Team User | `john@crm.com` | `User123!` |
-| Team User | `sara@crm.com` | `User123!` |
 
 The login page shows these credentials and offers one-click demo sign-in.
 
